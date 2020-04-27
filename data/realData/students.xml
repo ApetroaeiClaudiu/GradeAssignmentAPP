@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student ID="dcmn1367">
+        <ID>dcmn1367</ID>
+        <Group>7</Group>
+        <Surname>Diana</Surname>
+        <Name>Cazacu</Name>
+        <Email>diana@sgs</Email>
+        <ProfessorLab>Ionut</ProfessorLab>
+    </student>
+    <student ID="dipr4352">
+        <ID>dipr4352</ID>
+        <Group>2</Group>
+        <Surname>Daniel</Surname>
+        <Name>Ionescu</Name>
+        <Email>daniion@gmail.com</Email>
+        <ProfessorLab>Andreea</ProfessorLab>
+    </student>
+    <student ID="lmxx5791">
+        <ID>lmxx5791</ID>
+        <Group>8</Group>
+        <Surname>Lucia</Surname>
+        <Name>Maxim</Name>
+        <Email>luciamaxim@gmail.com</Email>
+        <ProfessorLab>Ionut</ProfessorLab>
+    </student>
+    <student ID="amnc7531">
+        <ID>amnc7531</ID>
+        <Group>3</Group>
+        <Surname>Anastasia</Surname>
+        <Name>Mateiuc</Name>
+        <Email>nasty@scs.ubb.cluj.ro</Email>
+        <ProfessorLab>Ionut</ProfessorLab>
+    </student>
+    <student ID="szli7623">
+        <ID>szli7623</ID>
+        <Group>2</Group>
+        <Surname>Silviu</Surname>
+        <Name>Zugravu</Name>
+        <Email>zugravior@gmail.com</Email>
+        <ProfessorLab>George</ProfessorLab>
+    </student>
+    <student ID="aapo0912">
+        <ID>aapo0912</ID>
+        <Group>8</Group>
+        <Surname>Andrei</Surname>
+        <Name>Ardelean</Name>
+        <Email>andrei@gmail.com</Email>
+        <ProfessorLab>Diana Pop</ProfessorLab>
+    </student>
+    <student ID="bcir1234">
+        <ID>bcir1234</ID>
+        <Group>5</Group>
+        <Surname>bbbbb</Surname>
+        <Name>ccccc</Name>
+        <Email>flkndsf,s</Email>
+        <ProfessorLab>lkfsdljfs</ProfessorLab>
+    </student>
+    <student ID="amcd1234">
+        <ID>amcd1234</ID>
+        <Group>8</Group>
+        <Surname>Ana</Surname>
+        <Name>Maria</Name>
+        <Email>ana@gmail.com</Email>
+        <ProfessorLab>George</ProfessorLab>
+    </student>
+    <student ID="ipmn3795">
+        <ID>ipmn3795</ID>
+        <Group>6</Group>
+        <Surname>Irina</Surname>
+        <Name>Petrea</Name>
+        <Email>irinuca@gmail.com</Email>
+        <ProfessorLab>Diana Pop</ProfessorLab>
+    </student>
+    <student ID="cair2447">
+        <ID>cair2447</ID>
+        <Group>1</Group>
+        <Surname>Claudiu</Surname>
+        <Name>Apetroaei</Name>
+        <Email>apetroaei.claudiu99@yahoo.com</Email>
+        <ProfessorLab>Andreea</ProfessorLab>
+    </student>
+    <student ID="rsop1999">
+        <ID>rsop1999</ID>
+        <Group>4</Group>
+        <Surname>Razvan</Surname>
+        <Name>Surubariu</Name>
+        <Email>smrfamily@yahoo.com</Email>
+        <ProfessorLab>Ionut</ProfessorLab>
+    </student>
+    <student ID="iiii5555">
+        <ID>iiii5555</ID>
+        <Group>3</Group>
+        <Surname>Ion</Surname>
+        <Name>Ionescu</Name>
+        <Email>ionut</Email>
+        <ProfessorLab>Andreea</ProfessorLab>
+    </student>
+    <student ID="valp9128">
+        <ID>valp9128</ID>
+        <Group>4</Group>
+        <Surname>Vlad</Surname>
+        <Name>Apostoaie</Name>
+        <Email>vladut33@yahoo.com</Email>
+        <ProfessorLab>Emilia</ProfessorLab>
+    </student>
+    <student ID="pber6239">
+        <ID>pber6239</ID>
+        <Group>3</Group>
+        <Surname>Paul</Surname>
+        <Name>Beltechi</Name>
+        <Email>paulbelt@gmail.com</Email>
+        <ProfessorLab>Andreea</ProfessorLab>
+    </student>
+    <student ID="mdcv8642">
+        <ID>mdcv8642</ID>
+        <Group>3</Group>
+        <Surname>Mihai</Surname>
+        <Name>Danila</Name>
+        <Email>mihaita@yahoo.com</Email>
+        <ProfessorLab>Emilia</ProfessorLab>
+    </student>
+    <student ID="aprt8765">
+        <ID>aprt8765</ID>
+        <Group>3</Group>
+        <Surname>Andreea</Surname>
+        <Name>Paduraru</Name>
+        <Email>asdas</Email>
+        <ProfessorLab>asdasdas</ProfessorLab>
+    </student>
+</students>

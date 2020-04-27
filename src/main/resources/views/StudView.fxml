@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="780.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.StudController">
+    <children>
+        <SplitPane dividerPositions="0.6538461538461539" layoutX="201.0" layoutY="91.0" orientation="VERTICAL" prefHeight="600.0" prefWidth="780.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                    <children>
+                        <GridPane layoutX="14.0" layoutY="93.0" prefHeight="323.0" prefWidth="187.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                            <columnConstraints>
+                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            </columnConstraints>
+                            <rowConstraints>
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints />
+                            </rowConstraints>
+                            <children>
+                                <Label text="intrebare" GridPane.rowIndex="0" />
+
+                                <TextField fx:id="textFieldFilterName"  GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                            </children>
+                        </GridPane>
+                    </children>
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                    <children>
+                        <Button onAction="#handleTrimiteRaspuns" layoutX="106.0" layoutY="77.0" mnemonicParsing="false" text="Trimite raspunsul" />
+                        <RadioButton fx:id="var1" layoutX="340.0" layoutY="40.0" mnemonicParsing="false" text="" />
+                        <RadioButton fx:id="var2" layoutX="340.0" layoutY="69.0" mnemonicParsing="false" text="" />
+                        <RadioButton fx:id="var3" layoutX="340.0" layoutY="94.0" mnemonicParsing="false" text="" />
+                    </children>
+                </AnchorPane>
+            </items>
+        </SplitPane>
+    </children>
+</AnchorPane>

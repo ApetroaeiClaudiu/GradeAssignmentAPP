@@ -1,0 +1,20 @@
+Homework : 5
+Grade : 9.0
+Delivered on : 9
+Deadline : 8
+Feedback : sa vedem
+
+Homework : 6
+Grade : 10.0
+Delivered on : 9
+Deadline : 9
+Feedback : 
+
+Homework : 4
+Grade : 8.0
+Delivered on : 9
+Deadline : 7
+Feedback : NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+
+

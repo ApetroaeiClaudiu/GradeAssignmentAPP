@@ -1,0 +1,8 @@
+dipr4352;2;Daniel;Ionescu;daniion@gmail.com;Andreea
+ipmn3795;6;Irina;Petrea;irinuca@gmail.com;Diana Pop
+acor1234;1;Andrei;Cotofana;andreicotofana@gmail.com;Ionut
+szli7623;2;Silviu;Zugravu;zugravior@gmail.com;George
+izop9999;8;Ion;Zaharia;sugar123@scs.ubb.cluj.ro;Diana Pop
+valp9128;4;Vlad;Apostoaie;vladut33@yahoo.com;Emilia
+asag1256;1;Andrei;Scutelnicu;andrei999@yahoo.com;Crina
+lpia4520;4;Lucian;Popescu;asd@yahoo.com;Emilia

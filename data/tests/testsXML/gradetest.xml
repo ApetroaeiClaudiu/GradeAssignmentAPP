@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<grades>
+    <grade ID="ipmn3795 7">
+        <IDStudent>ipmn3795</IDStudent>
+        <IDHomework>7</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Diana Pop</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+    </grade>
+</grades>

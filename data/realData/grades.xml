@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<grades>
+    <grade ID="amnc7531 7">
+        <IDStudent>amnc7531</IDStudent>
+        <IDHomework>7</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>Bravo</Feedback>
+    </grade>
+    <grade ID="amnc7531 6">
+        <IDStudent>amnc7531</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="amnc7531 5">
+        <IDStudent>amnc7531</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+1 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="ipmn3795 5">
+        <IDStudent>ipmn3795</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Diana Pop</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+</Feedback>
+    </grade>
+    <grade ID="ipmn3795 6">
+        <IDStudent>ipmn3795</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Diana Pop</Professor>
+        <DeliveryWeek>7</DeliveryWeek>
+        <Feedback>da</Feedback>
+    </grade>
+    <grade ID="dipr4352 7">
+        <IDStudent>dipr4352</IDStudent>
+        <IDHomework>7</IDHomework>
+        <Value>8.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="dipr4352 9">
+        <IDStudent>dipr4352</IDStudent>
+        <IDHomework>9</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>10</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="iiii5555 6">
+        <IDStudent>iiii5555</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="valp9128 6">
+        <IDStudent>valp9128</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="iiii5555 5">
+        <IDStudent>iiii5555</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+1 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="dipr4352 5">
+        <IDStudent>dipr4352</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU 1 PUNCTE DATORITA INTARZIERILOR</Feedback>
+    </grade>
+    <grade ID="iiii5555 4">
+        <IDStudent>iiii5555</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="valp9128 5">
+        <IDStudent>valp9128</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+1 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="valp9128 4">
+        <IDStudent>valp9128</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>8.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>intarziat</Feedback>
+    </grade>
+    <grade ID="dipr4352 4">
+        <IDStudent>dipr4352</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>8.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+            2 PUNCTE DATORITA INTARZIERILOR
+        </Feedback>
+    </grade>
+    <grade ID="amcd1234 5">
+        <IDStudent>amcd1234</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>9.0</Value>
+        <Professor>George</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>sa vedem</Feedback>
+    </grade>
+    <grade ID="mdcv8642 3">
+        <IDStudent>mdcv8642</IDStudent>
+        <IDHomework>3</IDHomework>
+        <Value>1.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>The given grade is 1
+ due to more than 2 weeks 
+ late delivery time !</Feedback>
+    </grade>
+    <grade ID="mdcv8642 4">
+        <IDStudent>mdcv8642</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>7.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="amcd1234 4">
+        <IDStudent>amcd1234</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>8.0</Value>
+        <Professor>George</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="lmxx5791 6">
+        <IDStudent>lmxx5791</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="amcd1234 6">
+        <IDStudent>amcd1234</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>George</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="lmxx5791 4">
+        <IDStudent>lmxx5791</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="lmxx5791 5">
+        <IDStudent>lmxx5791</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+</Feedback>
+    </grade>
+    <grade ID="cair2447 4">
+        <IDStudent>cair2447</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>1.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>10</DeliveryWeek>
+        <Feedback>The given grade is 1
+ due to more than 2 weeks 
+ late delivery time !</Feedback>
+    </grade>
+    <grade ID="cair2447 5">
+        <IDStudent>cair2447</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+</Feedback>
+    </grade>
+    <grade ID="cair2447 6">
+        <IDStudent>cair2447</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>						</Feedback>
+    </grade>
+    <grade ID="cair2447 8">
+        <IDStudent>cair2447</IDStudent>
+        <IDHomework>8</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>bravo</Feedback>
+    </grade>
+    <grade ID="cair2447 10">
+        <IDStudent>cair2447</IDStudent>
+        <IDHomework>10</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>10</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="mdcv8642 5">
+        <IDStudent>mdcv8642</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>nu</Feedback>
+    </grade>
+    <grade ID="mdcv8642 6">
+        <IDStudent>mdcv8642</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Emilia</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="dipr4352 1">
+        <IDStudent>dipr4352</IDStudent>
+        <IDHomework>1</IDHomework>
+        <Value>1.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>The given grade is 1
+ due to more than 2 weeks 
+ late delivery time !</Feedback>
+    </grade>
+    <grade ID="dcmn1367 6">
+        <IDStudent>dcmn1367</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+</Feedback>
+    </grade>
+    <grade ID="dcmn1367 7">
+        <IDStudent>dcmn1367</IDStudent>
+        <IDHomework>7</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>10</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="pber6239 6">
+        <IDStudent>pber6239</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="pber6239 4">
+        <IDStudent>pber6239</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="pber6239 5">
+        <IDStudent>pber6239</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>9.0</Value>
+        <Professor>Andreea</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+            1 PUNCTE DATORITA INTARZIERILOR
+        </Feedback>
+    </grade>
+    <grade ID="szli7623 6">
+        <IDStudent>szli7623</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>George</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback/>
+    </grade>
+    <grade ID="szli7623 5">
+        <IDStudent>szli7623</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>George</Professor>
+        <DeliveryWeek>7</DeliveryWeek>
+        <Feedback>The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+</Feedback>
+    </grade>
+    <grade ID="ipmn3795 7">
+        <IDStudent>ipmn3795</IDStudent>
+        <IDHomework>7</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Diana Pop</Professor>
+        <DeliveryWeek>8</DeliveryWeek>
+        <Feedback>da</Feedback>
+    </grade>
+    <grade ID="rsop1999 4">
+        <IDStudent>rsop1999</IDStudent>
+        <IDHomework>4</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="rsop1999 5">
+        <IDStudent>rsop1999</IDStudent>
+        <IDHomework>5</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>NOTA A FOST DIMINUATA CU
+1 PUNCTE DATORITA INTARZIERILOR
+</Feedback>
+    </grade>
+    <grade ID="rsop1999 6">
+        <IDStudent>rsop1999</IDStudent>
+        <IDHomework>6</IDHomework>
+        <Value>10.0</Value>
+        <Professor>Ionut</Professor>
+        <DeliveryWeek>9</DeliveryWeek>
+        <Feedback>				</Feedback>
+    </grade>
+</grades>

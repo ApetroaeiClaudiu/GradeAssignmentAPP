@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student ID="izop9999">
+        <ID>izop9999</ID>
+        <Group>8</Group>
+        <Surname>Ion</Surname>
+        <Name>Zaharia</Name>
+        <Email>sugar123@scs.ubb.cluj.ro</Email>
+        <ProfessorLab>Diana Pop</ProfessorLab>
+    </student>
+</students>

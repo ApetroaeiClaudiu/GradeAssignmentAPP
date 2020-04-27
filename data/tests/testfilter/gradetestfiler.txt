@@ -1,0 +1,5 @@
+abcd1234;1;10;prof1;2
+amcl9999;1;10;prof1;3
+iilp1234;2;10;prof2;4
+fzlm5673;2;10;prof3;4
+ipam1236;1;10;prof3;3

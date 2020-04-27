@@ -1,0 +1,42 @@
+Homework : 7
+Grade : 8.0
+Delivered on : 9
+Deadline : 9
+Feedback : 
+
+Homework : 5
+Grade : 9.0
+Delivered on : 9
+Deadline : 8
+Feedback : NOTA A FOST DIMINUATA CU 1 PUNCTE DATORITA INTARZIERILOR
+
+Homework : 4
+Grade : 8.0
+Delivered on : 9
+Deadline : 7
+Feedback : NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+
+
+Homework : 4
+Grade : 8.0
+Delivered on : 9
+Deadline : 7
+Feedback : NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+
+
+Homework : 1
+Grade : 1.0
+Delivered on : 9
+Deadline : 3
+Feedback : The given grade is 1
+ due to more than 2 weeks 
+ late delivery time !
+
+Homework : 9
+Grade : 9.0
+Delivered on : 10
+Deadline : 12
+Feedback : 
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane style="-fx-background-color: #b3e6ff;" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="220.0" prefWidth="670.0" stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainWindowController">
+   <children>
+      <SplitPane dividerPositions="0.2" layoutX="261.0" layoutY="119.0" orientation="VERTICAL" prefHeight="488.0" prefWidth="670.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <HBox style="-fx-background-color: #b3e6ff;" layoutX="48.0" layoutY="33.0" prefHeight="94.0" prefWidth="668.0" AnchorPane.bottomAnchor="-33.0" AnchorPane.leftAnchor="48.0" AnchorPane.rightAnchor="-48.0" AnchorPane.topAnchor="33.0" />
+                   <Label alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="87.0" layoutY="6.0" prefHeight="41.0" prefWidth="668.0" text="U.B.B. Database Manager" textAlignment="CENTER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <GridPane layoutX="36.0" layoutY="14.0" prefHeight="386.0" prefWidth="668.0" style="-fx-background-color: #b3e6ff;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columnConstraints>
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#handleStudents" text="Students" prefHeight="70.0" prefWidth="110.0" GridPane.columnIndex="0" />
+                        <Button mnemonicParsing="false" onAction="#handleHomework" text="Homework" prefHeight="70.0" prefWidth="110.0" GridPane.columnIndex="1" />
+                        <Button mnemonicParsing="false" onAction="#handleGrades" text="Grades" prefHeight="70.0" prefWidth="110.0" GridPane.columnIndex="2" />
+                     </children>
+                  </GridPane>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<homework>
+    <homework ID="1">
+        <StartWeek>1</StartWeek>
+        <DeadlineWeek>3</DeadlineWeek>
+        <Description>Introduction to Java</Description>
+    </homework>
+    <homework ID="2">
+        <StartWeek>2</StartWeek>
+        <DeadlineWeek>4</DeadlineWeek>
+        <Description>Exercises</Description>
+    </homework>
+    <homework ID="3">
+        <StartWeek>3</StartWeek>
+        <DeadlineWeek>5</DeadlineWeek>
+        <Description>Java Classes</Description>
+    </homework>
+    <homework ID="4">
+        <StartWeek>4</StartWeek>
+        <DeadlineWeek>7</DeadlineWeek>
+        <Description>UML Diagrams</Description>
+    </homework>
+    <homework ID="5">
+        <StartWeek>5</StartWeek>
+        <DeadlineWeek>8</DeadlineWeek>
+        <Description>Reading From Files</Description>
+    </homework>
+    <homework ID="6">
+        <StartWeek>6</StartWeek>
+        <DeadlineWeek>9</DeadlineWeek>
+        <Description>Stream Operations</Description>
+    </homework>
+    <homework ID="7">
+        <StartWeek>7</StartWeek>
+        <DeadlineWeek>10</DeadlineWeek>
+        <Description>GUI</Description>
+    </homework>
+    <homework ID="8">
+        <StartWeek>8</StartWeek>
+        <DeadlineWeek>11</DeadlineWeek>
+        <Description>a</Description>
+    </homework>
+    <homework ID="9">
+        <StartWeek>9</StartWeek>
+        <DeadlineWeek>12</DeadlineWeek>
+        <Description>Yey</Description>
+    </homework>
+    <homework ID="10">
+        <StartWeek>10</StartWeek>
+        <DeadlineWeek>12</DeadlineWeek>
+        <Description>qrdsfsdfs</Description>
+    </homework>
+    <homework ID="11">
+        <StartWeek>11</StartWeek>
+        <DeadlineWeek>13</DeadlineWeek>
+        <Description>saptamana 11</Description>
+    </homework>
+</homework>

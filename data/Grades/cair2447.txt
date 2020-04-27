@@ -1,0 +1,87 @@
+Homework : 8
+Grade : 9.0
+Delivered on : 0
+Deadline : 11
+Feedback : sfasfasfda
+
+Homework : 8
+Grade : 10.0
+Delivered on : 8
+Deadline : 11
+Feedback : bravo
+
+Homework : 8
+Grade : 10.0
+Delivered on : 8
+Deadline : 11
+Feedback : bravo
+
+Homework : 8
+Grade : 10.0
+Delivered on : 8
+Deadline : 11
+Feedback : bravo
+
+Homework : 8
+Grade : 10.0
+Delivered on : 8
+Deadline : 11
+Feedback : bravo
+
+Homework : 8
+Grade : 10.0
+Delivered on : 9
+Deadline : 11
+Feedback : nu ar trebui sa pot
+
+Homework : 8
+Grade : 10.0
+Delivered on : 9
+Deadline : 11
+Feedback : nu trebuie sa pot
+
+Homework : 4
+Grade : 10.0
+Delivered on : 3
+Deadline : 7
+Feedback : NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+
+
+Homework : 4
+Grade : 10.0
+Delivered on : 2
+Deadline : 7
+Feedback : NOTA A FOST DIMINUATA CU
+2 PUNCTE DATORITA INTARZIERILOR
+
+
+Homework : 6
+Grade : 10.0
+Delivered on : 9
+Deadline : 9
+Feedback : 						
+
+Homework : 5
+Grade : 10.0
+Delivered on : 8
+Deadline : 8
+Feedback : The grade value has been
+ diminshed by 1 due to late 
+ delivery time !
+
+
+Homework : 10
+Grade : 10.0
+Delivered on : 10
+Deadline : 12
+Feedback : 
+
+Homework : 4
+Grade : 1.0
+Delivered on : 10
+Deadline : 7
+Feedback : The given grade is 1
+ due to more than 2 weeks 
+ late delivery time !
+
